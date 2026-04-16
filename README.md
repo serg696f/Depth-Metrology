@@ -1,6 +1,6 @@
 # Depth-Metrology
 
-This repo holds chart design files and papers for the work in Depth Metrology Ad Hoc Group part of TC42
+This repo holds chart design files and papers for the work in Depth Metrology TS 8527
 
 ## This is an Endoscope 3D chart
 
