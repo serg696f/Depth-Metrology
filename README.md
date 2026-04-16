@@ -8,7 +8,7 @@ This 3D chart is based on a 'Cut Siemens Start' as described in the paper ["Intr
 
 The chart uses the Cut Siemens Start and adds a cone in the back to provide a measurment of the accuray of depth - the height of the cone is equal to the radius of the Siemens Star, therfore, each point in the openings will be at a depth eqal to the distance to the centre of the star.
 
-Here is how a model of the chart looks like (the Siemns start is 3.5mm diameter, the height of the cone is 1.75mm - this chart was designed to be used for measuring an endoscope):
+Here is how a model of the chart looks like (the Siemens start is 3.5mm diameter, the height of the cone is 1.75mm - this chart was designed to be used for measuring an endoscope):
 
 ```stl
 solid ASCII
