@@ -2,7 +2,9 @@
 
 This repo holds chart design files and papers for the work in Depth Metrology Ad Hoc Group part of TC42
 
-## This is an Endoscope 3D chart - the chart is based on a 'Cut Siemens Start' as described in the paper ["Introducing the cut-out star target to evaluate the resolution performance of 3D structured-light systems"](https://github.com/serg696f/Depth-Metrology/blob/main/Papers/Evaluation%20methodology%20for%20structured%20light%203D%20based%20depth%20maps.pdf) by Tom Osborne, Vikas Ramachandra, Kalin Atanassov, Sergio Goma.
+## This is an Endoscope 3D chart
+
+This 3D chart is based on a 'Cut Siemens Start' as described in the paper ["Introducing the cut-out star target to evaluate the resolution performance of 3D structured-light systems"](https://github.com/serg696f/Depth-Metrology/blob/main/Papers/Evaluation%20methodology%20for%20structured%20light%203D%20based%20depth%20maps.pdf) by Tom Osborne, Vikas Ramachandra, Kalin Atanassov, Sergio Goma.
 
 The chart uses the Cut Siemens Start and adds a cone in the back to provide a measurment of the accuray of depth - the height of the cone is equal to the radius of the Siemens Star, therfore, each point in the openings will be at a depth eqal to the distance to the centre of the star.
 
