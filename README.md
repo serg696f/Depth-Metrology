@@ -9870,7 +9870,7 @@ the radius of the cone is 1.75mm, making the diameter of the projected chart 3.5
 
 The flatness of the chart is ensured by adjusting the chart until the outer ring has all points at the same depth.
 
-[View Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-print-complex.stp)
+### [View 3D-Chart-Print](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-print-complex.stp)
 
 ---
 
@@ -9880,6 +9880,6 @@ This chart is designed to project two surfaces - depth patterns - one in increas
 
 The flatness of the chart is ensured by adjusting the chart until the outer ring has all points at the same depth.
 
-
+### [View 3D-Chart-Print-Complex](https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-print-complex.stp)
 
 
