@@ -11,7 +11,6 @@ The chart uses the Cut Siemens Start and adds a cone in the back to provide a me
 Here is how a model of the chart looks like (the Siemens start is 3.5mm diameter, the height of the cone is 1.75mm - this chart was designed to be used for measuring an endoscope):
 
 ```stl
-# 9858
 solid ASCII
   facet normal -5.574642e-16 -1.000000e+00 1.022306e-31
     outer loop
@@ -9872,7 +9871,6 @@ the radius of the cone is 1.75mm, making the diameter of the projected chart 3.5
 The flatness of the chart is ensured by adjusting the chart until the outer ring has all points at the same depth.
 
 ```stl
-# 26593
 solid ASCII
   facet normal 1.173033e-32 -1.000000e+00 -6.927719e-32
     outer loop
