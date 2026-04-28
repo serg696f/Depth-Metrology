@@ -12,7 +12,9 @@ Here is how a model of the chart looks like (the Siemens star is 3.5mm diameter,
 
 ### [View Endoscope 3D chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-endoscope.stl)
 
-## 3D-Chart-Print
+---
+
+## This is the 3D-Chart-Print
 
 This chart is a variation of the simple chart - optimized for 3D printing
 
@@ -28,7 +30,7 @@ The flatness of the chart is ensured by adjusting the chart until the outer ring
 
 ---
 
-## 3D-Chart-Print-Complex
+## This is the 3D-Chart-Print-Complex
 
 This chart is designed to project two surfaces - depth patterns - one in increasing depth, one in decreasing depth. At any radius, the openings compared to the closed areas are at 2*R depth (provided the chart is flat to the camera).
 
@@ -36,4 +38,4 @@ The flatness of the chart is ensured by adjusting the chart until the outer ring
 
 ### [View 3D-Chart-Print-Complex](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-print-complex.stp)
 
-
+---
