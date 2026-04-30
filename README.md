@@ -46,6 +46,6 @@ This chart is designed to project two surfaces and be 3D printed - depth pattern
 
 The flatness of the chart is ensured by adjusting the chart until the suqare at the front is at the same depth.
 
-### [View Depth3D-Sergio-Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/Depth3D-Sergio-chart.stp)
+### [View Depth3D-Sergio-Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/Depth3D-Sergio-chart.stl)
 
 ---
