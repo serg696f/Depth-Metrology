@@ -39,3 +39,13 @@ The flatness of the chart is ensured by adjusting the chart until the outer ring
 ### [View 3D-Chart-Print-Complex](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/3d-chart-print-complex.stp)
 
 ---
+
+## This is the Depth3D-Sergio-Chart
+
+This chart is designed to project two surfaces and be 3D printed - depth patterns - one in increasing depth, one in decreasing depth. At any radius, the openings compared to the closed areas are at 2*R depth (provided the chart is flat to the camera).
+
+The flatness of the chart is ensured by adjusting the chart until the suqare at the front is at the same depth.
+
+### [View Depth3D-Sergio-Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/Depth3D-Sergio-chart.stl.stp)
+
+---
