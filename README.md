@@ -57,7 +57,11 @@ This model of the chart is 220mm square - the Rdius = 100mm, which is equal with
 
 The flatness of the chart is ensured by adjusting the chart until the front surface is at the same depth.
 
+I reccomend printing it using SLA and painting it with ODP97 for best reflectance:
+https://www.gigahertz-optik.com/en-us/product/odp97/
+
 The chart looks like this:
+
 ![Depth3D-Sergio-Chart](images/3D-Chart-Sergio.jpg)
 ### [View Depth3D-Sergio-Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/Depth3D-Sergio-chart.stl)
 
