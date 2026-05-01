@@ -44,8 +44,21 @@ The flatness of the chart is ensured by adjusting the chart until the outer ring
 
 This chart is designed to project two surfaces and be 3D printed - depth patterns - one in increasing depth, one in decreasing depth. At any radius, the openings compared to the closed areas are at 2*R depth (provided the chart is flat to the camera).
 
-The flatness of the chart is ensured by adjusting the chart until the suqare at the front is at the same depth.
+### Dimensions:
 
+This model of the chart is 220mm square - the Rdius = 100mm, which is equal with the depth of the chart. There are four alignment holes in each corner, each hole is 40mm below the surface of the chart. Each hole center distances:
+
+|Hole nr.| distance from centre|
+|---|---|
+| 1 | 105.5mm |
+| 2 | 115.5mm |
+| 3 | 127.5mm |
+| 4 | 142mm |
+
+The flatness of the chart is ensured by adjusting the chart until the front surface is at the same depth.
+
+The chart looks like this:
+![Depth3D-Sergio-Chart](images/3D-Chart-Sergio.jpg)
 ### [View Depth3D-Sergio-Chart](https://3dviewer.net/#model=https://github.com/serg696f/Depth-Metrology/blob/main/Depth3D-Sergio-chart.stl)
 
 ---
